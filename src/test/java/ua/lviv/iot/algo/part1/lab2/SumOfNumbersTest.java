@@ -7,7 +7,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 class SumOfNumbersTest {
 
-    private Main sumOfNumbers;
+    private SumOfNumbers sumOfNumbers;
     private String text;
     private int actualSum;
     private int expectedSum;
